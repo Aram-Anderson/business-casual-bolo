@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/business-casual-bolo/static/css/main.cf015c0e.chunk.css",
+    "main.js": "/business-casual-bolo/static/js/main.85daab6e.chunk.js",
+    "main.js.map": "/business-casual-bolo/static/js/main.85daab6e.chunk.js.map",
+    "runtime-main.js": "/business-casual-bolo/static/js/runtime-main.02d11366.js",
+    "runtime-main.js.map": "/business-casual-bolo/static/js/runtime-main.02d11366.js.map",
+    "static/js/2.0d973eb6.chunk.js": "/business-casual-bolo/static/js/2.0d973eb6.chunk.js",
+    "static/js/2.0d973eb6.chunk.js.map": "/business-casual-bolo/static/js/2.0d973eb6.chunk.js.map",
+    "index.html": "/business-casual-bolo/index.html",
+    "precache-manifest.3f350537528a0801f351bba5234a89e0.js": "/business-casual-bolo/precache-manifest.3f350537528a0801f351bba5234a89e0.js",
+    "service-worker.js": "/business-casual-bolo/service-worker.js",
+    "static/css/main.cf015c0e.chunk.css.map": "/business-casual-bolo/static/css/main.cf015c0e.chunk.css.map",
+    "static/js/2.0d973eb6.chunk.js.LICENSE.txt": "/business-casual-bolo/static/js/2.0d973eb6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/business-casual-bolo/static/media/oranges.f4391084.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02d11366.js",
+    "static/js/2.0d973eb6.chunk.js",
+    "static/css/main.cf015c0e.chunk.css",
+    "static/js/main.85daab6e.chunk.js"
+  ]
+}
